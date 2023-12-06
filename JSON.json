@@ -1,0 +1,10 @@
+{
+
+"name" : "CD", 
+"casa discografica": "Sony",
+"artisti": [
+{ "nome": "Taylor Swift", "canzoni": ["Blank Space", "Shake it Off"], "anni": ["2014", "2016"], "durata":["3,51", "3,39"], "genere": "pop music"}
+	{"nome": "Zucchero", "canzoni": ["Baila", "Senza una donna"], "anni": ["2001", "1987"], "durata": ["4,08", "4,27"], "genere":"dance"}
+{"nome": "Ariana Grande", "canzoni": ["One Last Time", "Problem"], "anni": ["2014", "2014"], "durata": ["3:17", "3:13"], "genere":"pop"}
+	]
+}
